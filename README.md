@@ -1,6 +1,6 @@
-# 🤖 Conversational QA Bot (CoQA-Based)
+# 🤖 Question Answering System
 
-This is a conversational Question Answering bot fine-tuned on the [CoQA dataset](https://stanfordnlp.github.io/coqa/). It uses a custom-trained T5 model to answer questions based on the provided context.
+This is a Question Answering System fine-tuned on the [CoQA dataset](https://stanfordnlp.github.io/coqa/). It uses a custom-trained T5 model to answer questions based on the provided context.
 
 ## 🚀 Features
 
